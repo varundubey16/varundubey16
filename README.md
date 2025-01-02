@@ -1,8 +1,8 @@
 - 👋 Hi,
-- 👀 Interested in Cloud, Data Analysis, ML, AWS, Web
-- 🌱 I’m currently learning MERN and Testing
+- 👀 Interested in Cloud AWS, Full Stack Web, Analysis, AI-ML
+- 🌱 I’m currently learning Testing & MERN
 - 💞️ --
-- 📫 --
+- 📫 Currently an UG Intern
 - 😄 --
 - ⚡ --
 
