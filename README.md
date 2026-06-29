@@ -1,9 +1,8 @@
 - 👋 Hi,
-- 👀 Interested in Cloud AWS, Full Stack Web, Analysis, AI-ML
-- 🌱 I’m currently learning Testing & MERN
-- 📫 Currently an UG Intern
-- 💞️ --
-- 😄 --
+- 👀 Cloud - AWS and GCP, Full Stack Web, Data Analytics, GenAI and ML
+- 🌱 Learning RaG AND AgenticAI
+- 📫 wrong times to become SDE's...
+- 😄
 - ⚡ --
 
 <!---
