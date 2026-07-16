@@ -1,9 +1,7 @@
 - 👋 Hi,
 - 👀 Cloud - AWS and GCP, Full Stack Web, Data Analytics, GenAI and ML
-- 🌱 Learning RaG AND AgenticAI
-- 📫 wrong times to become SDE's...
-- 😄
-- ⚡ --
+- 🌱 Learning RaG AND AgenticAI.....
+- 📫 wrong times to become SWE
 
 <!---
 varundubey16/varundubey16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
