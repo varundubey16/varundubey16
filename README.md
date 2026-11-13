@@ -1,7 +1,5 @@
-- 👋
-- 👀 Cloud - AWS and GCP, Full Stack Web, Data Analytics, GenAI and ML
-- 🌱 Learning RaG AND AgenticAI..
-- 📫 bad time to become software engineer..... -_-
+- AppSec, DevSecOps, Cloud, Data Analytics, GenAI & ML
+- Agentic Security
 
 <!---
 varundubey16/varundubey16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
