@@ -1,5 +1,4 @@
-- AppSec, DevSecOps, Cloud, Data Analytics, GenAI & ML
-- Agentic Security
+- AppSec, Gen Agentic Security, Red Teaming, DevSecOps, Cloud, Data Analytics & Big Data, ML
 
 <!---
 varundubey16/varundubey16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
