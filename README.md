@@ -1,7 +1,7 @@
                      𒅌 | Мы все в одном IT-окопе, это не соревнование | ⋆♱✮♱⋆
 
 - ⚚ AppSec, Gen Agentic Security, Red Teaming, DevSecOps, Cloud, Data Analytics & Big Data, ML
-- 「 ✦  Build in silence... let commits make the noise.. prove it in production -_- ✦ 」
+- 「 ✦  3AM -> Dark Room -> Cold Coffee -> Commits -> Breakthrough -_- ✦ 」
   
                                - ▄︻デ══━一💥 ⚚
 <!---
