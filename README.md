@@ -1,6 +1,6 @@
                      𒅌 | Мы все в одном IT-окопе, это не соревнование | ⋆♱✮♱⋆
 
-- ⚚ AppSec, Gen Agentic Security, Red Teaming, DevSecOps, Cloud, Data Analytics & Big Data, ML
+- ⚚ AppSec, Agentic Security, Red Teaming, DevSecOps, Cloud, Data Analytics & Big Data, ML
 - 「 ✦  3AM -> Room -> Coffee -> Commit -> Breakthrough -_- ✦ 」
   
                                - ▄︻デ══━一💥 ⚚
