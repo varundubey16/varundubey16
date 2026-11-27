@@ -1,4 +1,4 @@
-                     𒅌 | Мы все в одном IT-окопе, это не соревнование | ⋆♱✮♱⋆
+                     𒅌 | Мы все в одном окопе, это не соревнование | ⋆♱✮♱⋆
 
 - ⚚ AppSec, Agentic Security, Red Teaming, DevSecOps, Cloud, Data Analytics & Big Data, ML
 - 「 ✦  3AM -> Room -> Coffee -> Commit -> Breakthrough -_- ✦ 」
